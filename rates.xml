@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<data>
+    <grid name="Light">
+        <weapon name="sword" need="6">
+            <raid name="Luminiera Omega Showdown" rate="~2%" cost="30 AP and 2 anima"></raid>
+            <raid name="Luminiera Omega (Impossible)" rate="Very Rare" cost="50AP and 3 primal bit"></raid>
+            <raid name="Apollo Showdown" rate="~3%" cost="40 AP and either 50 whorl or 6 scales"></raid>
+            <raid name="Odin Showdown" rate="~10%" cost="40 AP"></raid>
+        </weapon>
+        <weapon name="Corrow sword" need="2">
+        </weapon>
+        <weapon name="Mittron's Bow" need="2">
+            <raid name="Metatron (Raid)" rate="high" cost="90 AP and 1 crystal"></raid>
+        </weapon>
+    </grid>
+    <grid name="Dark">
+        <weapon name="Ultima sword" need="1">
+        </weapon>
+        <weapon name="Diablo katana" need="2">
+        </weapon>
+        <weapon name="Celest Claws" need="4">
+            <raid name="Celeste Omega Showdown" rate="~2%" cost="30 AP"></raid>
+            <raid name="Celeste Omega (Impossible)" rate="Very Rare" cost="50 AP"></raid>
+            <raid name="Dark Angel Olivia Showdown" rate="~3%" cost="40 AP and either 50 whorl or 6 scale"></raid>
+            <raid name="Lich Showdown" rate="~10%" cost="40 AP and either 50 whorl or 6 scale"></raid>
+            <raid name="Avatar (Impossible)" rate="High" cost="90 AP and 1 crystal"></raid>
+        </weapon>
+        <weapon name="Abyss Spine" need="2">
+            <raid name="Avatar (Raid)" rate="MVP" cost="90 AP and 1 crystal"></raid>
+        </weapon>
+        <weapon name="Olden Cortana" need="1">
+            <raid name="Dark Angel Olivia Showdown" rate="~3%" cost="40 AP and either 50 whorl or 6 scale"></raid>
+            <raid name="Avatar (Raid)" rate="High" cost="90 AP and 1 crystal"></raid>
+        </weapon>
+    </grid>
+</data>
